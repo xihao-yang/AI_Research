@@ -2,7 +2,7 @@
 
 A learning-based implementation using CodeBERT for code clone detection, with a focus on improving semantic understanding of code pairs. This project serves as a foundational component for research on **test oracle accuracy in Automatic Program Repair (APR)**.
 
----
+
 
 ## 📌 Overview
 
@@ -10,7 +10,7 @@ This project implements a CodeBERT-based binary classification model for code cl
 
 The goal is to learn semantic similarity between code pairs and provide reliable predictions, which can be further integrated into APR pipelines as a **learned test oracle**.
 
----
+
 
 ## 🚀 Motivation
 
@@ -22,7 +22,7 @@ This project explores the idea of using **learning-based semantic models** to im
 * Filtering out overfitting patches
 * Providing additional signals beyond traditional test cases
 
----
+
 
 ## 🧠 Model
 
@@ -31,7 +31,7 @@ This project explores the idea of using **learning-based semantic models** to im
 * Input: Code pair (function-level)
 * Output: Probability of semantic equivalence
 
----
+
 
 ## 📂 Project Structure
 
@@ -58,7 +58,7 @@ Code_Text/
   * `code2`
   * `label`
 
----
+
 
 ## ⚙️ Training
 
@@ -81,7 +81,6 @@ Code_Text/
 python train.py
 ```
 
----
 
 ## 📈 Results
 
@@ -106,7 +105,6 @@ After downloading, place the model under:
 outputs/best_model/
 ```
 
----
 
 ## 🔍 Key Insights
 
@@ -114,7 +112,7 @@ outputs/best_model/
 * Even small-scale training shows promising performance
 * Potential to serve as a learned oracle in APR pipelines
 
----
+
 
 ## 🔬 Future Work
 
@@ -123,7 +121,6 @@ outputs/best_model/
 * Evaluate on Defects4J benchmarks
 * Address overfitting patch detection explicitly
 
----
 
 ## 📚 Related Work
 
@@ -131,7 +128,6 @@ outputs/best_model/
 * BigCloneBench Dataset
 * Learning-based APR techniques
 
----
 
 ## 🧪 Reproducibility
 
@@ -156,13 +152,12 @@ Xihao Yang
 Keio University – Graduate School of Science and Technology
 Research Interest: Automatic Program Repair (APR), Software Engineering, Machine Learning
 
----
 
 ## 📄 License
 
 MIT License
 
----
+
 
 ## ⭐ Acknowledgements
 
@@ -170,4 +165,3 @@ MIT License
 * HuggingFace Transformers
 * CodeXGLUE Benchmark
 
----
