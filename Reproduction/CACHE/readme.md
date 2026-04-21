@@ -30,3 +30,5 @@
 * server CPU steal time is high
 * metrics on tiny dataset are not meaningful yet
 * warnings about dropout and undefined precision/recall/f1 on small split
+
+* There is some potential problems about results_v1.json
