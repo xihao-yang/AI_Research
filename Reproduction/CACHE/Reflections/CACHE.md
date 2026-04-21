@@ -77,27 +77,31 @@ python genOverfittingPatches.py
 ```
 
 ### 4.2 遇到问题：路径错误
+```bash
 FileNotFoundError: patches/Small/correct
+```
 🧠 原因分析
 
 当前执行路径为：
-
+```bash
 CACHE/Preprocessing/
-
+```
 而代码使用相对路径：
-
+```bash
 patches/Small/correct
-
+```
 实际访问路径变为：
-
+```bash
 CACHE/Preprocessing/patches/Small/correct ❌
+```
 ✅ 正确执行方式
 
 必须在项目根目录执行：
 
 cd ~/workspace/paper-reproduction/CACHE
 python Preprocessing/genOverfittingPatches.py
-📁 五、数据状态检查
+
+## 五、数据状态检查
 
 确认 patches 数据存在：
 
@@ -112,14 +116,16 @@ overfitting/
 
 patch 数据已准备完成
 可以进入 dataset 构建阶段
-📊 六、当前进度总结
+
+## 六、当前进度总结
 阶段	状态
 环境配置	✅ 完成
 Defects4J	✅ 可用
 patches 数据	✅ 已存在
 dataset 构建	🔄 进行中
 模型训练	⏳ 未完成
-🧠 七、关键收获
+
+## 七、关键收获
 1. CACHE 并非端到端系统
 不负责生成 patch
 依赖 APR 工具（如 GenProg / TBar）
@@ -147,7 +153,7 @@ Feature Representation Bias（特征表示偏差）
 
 输入表示方式直接影响模型行为与实验结果
 
-🚀 八、后续计划
+## 八、后续计划
 完成 dataset 自动生成
 成功运行模型训练流程
 导出训练结果（CSV / JSON）
