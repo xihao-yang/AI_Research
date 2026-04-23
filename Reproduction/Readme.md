@@ -6,6 +6,8 @@ Also, I have run the results compared to the original paper and make self-relfec
 
 # Progress
 
-Currently  Reprocessing CACHE 
-Overall Progress: `85%`  
-`[#############---]`
+
+
+CACHE reproduction progress: [████████████████░░░░] 85%
+
+
