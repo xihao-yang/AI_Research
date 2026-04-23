@@ -7,5 +7,5 @@ Also, I have run the results compared to the original paper and make self-relfec
 # Progress
 
 Currently  Reprocessing CACHE 
-<p> CACHE reproduction progress: 45% </p>
-<progress value="45" max="100"></progress>
+Overall Progress: `85%`  
+`[#############---]`
