@@ -26,17 +26,17 @@ Preprocessing/genOverfittingPatches.py
 ```
 本阶段的核心任务不再是手动构造 dataset，而是修复 preprocessing 主流程中遇到的实际问题，包括 patch 文件名解析、源码路径定位、Defects4J checkout、系统依赖缺失以及异常样本跳过等问题。
 
-1. 实验目标
+## 1. 实验目标
 
 本阶段实验是在 Day 1 已完成基础环境检查和 patch 数据确认的基础上继续推进。
 
 本阶段的主要目标包括：
 
-在服务器环境中复现 CACHE 项目的 preprocessing 主流程；
-修复原始脚本在 patch 元信息解析、源码路径定位、Defects4J checkout、异常跳过等环节中的关键问题；
-验证脚本是否能够稳定批量处理 patch；
-输出可用于后续 method-level 分析和 dataset 构建的数据结果；
-为后续 AST mining、dataset 构建和模型训练阶段打基础。
+1. 在服务器环境中复现 CACHE 项目的 preprocessing 主流程；
+2. 修复原始脚本在 patch 元信息解析、源码路径定位、Defects4J checkout、异常跳过等环节中的关键问题；
+3. 验证脚本是否能够稳定批量处理 patch；
+4. 输出可用于后续 method-level 分析和 dataset 构建的数据结果；
+5. 为后续 AST mining、dataset 构建和模型训练阶段打基础。
 
 ## 2. 实验环境
 ### 2.1 系统环境
