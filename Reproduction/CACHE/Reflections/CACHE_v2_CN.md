@@ -41,7 +41,7 @@ Preprocessing/genOverfittingPatches.py
 ## 2. 实验环境
 ### 2.1 系统环境
 
-项目	配置
+|项目	| 配置  |
 操作系统	Ubuntu 22.04
 Python 环境	Python 3.10.12（.venv）
 Java 环境	OpenJDK 11
