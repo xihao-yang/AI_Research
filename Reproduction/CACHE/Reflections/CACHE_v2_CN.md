@@ -498,7 +498,8 @@ recall = 0
 数据加载逻辑错误；
 模型预测单一类别；
 evaluation 逻辑存在问题。
-10. 阶段性总结
+
+## 10. 阶段性总结
 
 本次实验从 Day 1 的“手写数据不可行，需要回到官方 preprocessing 流程”继续推进。
 
@@ -519,7 +520,7 @@ CACHE 复现的 preprocessing 主流程已经基本跑通。
 
 这为后续 AST mining、dataset 构建、模型训练和 overfitting patch detection 实验打下了基础。
 
-11. 当前状态概览
+## 11. 当前状态概览
 阶段	状态
 环境配置	已完成
 patch 数据检查	已完成
