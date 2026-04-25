@@ -544,9 +544,4 @@ CACHE 复现的 preprocessing 主流程已经基本跑通。
 |  模型训练	            | 待进行       |
 |  指标异常分析            | 待进行       |
 
-deprecated bug 跳过	已完成
-method-level 输出	初步完成
-AST mining	待进行
-dataset 构建	待进行
-模型训练	待进行
-指标异常分析	待进行
+
