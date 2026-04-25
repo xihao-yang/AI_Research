@@ -1,0 +1,962 @@
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/math/NumberUtils.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/NameAnalyzer.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/util/ShapeUtilities.java
+[DEBUG] normalized patched_file = source/org/jfree/data/time/Week.java
+[DEBUG] normalized patched_file = source/org/jfree/data/time/TimeSeries.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/MinimizeExitPoints.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/renderer/GrayPaintScale.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/util/MathUtils.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/distribution/FDistribution.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/stat/Frequency.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/stat/inference/MannWhitneyUTest.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/time/FastDateParser.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/math/NumberUtils.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/MinimizeExitPoints.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.java
+[DEBUG] normalized patched_file = source/org/jfree/data/time/TimeSeries.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/stat/Frequency.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/complex/Complex.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/NodeUtil.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/Compiler.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/CodeGenerator.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/CodeGenerator.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/renderer/GrayPaintScale.java
+[DEBUG] normalized patched_file = source/org/jfree/data/time/TimeSeries.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/renderer/GrayPaintScale.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/axis/Axis.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/axis/Axis.java
+[DEBUG] normalized patched_file = source/org/jfree/data/time/TimeSeries.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/axis/Axis.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang3/time/FastDateFormat.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/BooleanUtils.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/time/StopWatch.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang3/time/FastDateFormat.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/ClassUtils.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/BooleanUtils.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang3/time/FastDateFormat.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/ClassUtils.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/BooleanUtils.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/BooleanUtils.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/BooleanUtils.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/WordUtils.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang3/time/FastDateFormat.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/complex/Complex.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/complex/Complex.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/complex/Complex.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/complex/Complex.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/Compiler.java
+[DEBUG] normalized patched_file = src/com/google/javascript/rhino/jstype/PrototypeObjectType.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/Compiler.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/TypedScopeCreator.java
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-20-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/tz/ZoneInfoCompiler.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-11-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/DateTimeZone.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-25-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/DateTimeZone.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-9-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/field/FieldUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-15-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/format/DateTimeFormatter.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-16-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/DateTimeZone.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-8-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/DateTimeZone.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-17-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/chrono/GJChronology.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-18-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/chrono/ZonedChronology.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-26-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/LocalDate.java
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/LocalDateTime.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-12-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/Partial.java
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/field/UnsupportedDurationField.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-2-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/DateTimeZone.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-19-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/format/PeriodFormatterBuilder.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-13-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/format/DateTimeParserBucket.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-24-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/chrono/BasicMonthOfYearDateTimeField.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-14-dev.patch
+[CHECKOUT-FAILED] tool=defects4j, project=Time, bug_id=21, path=./temp_projects/defects4j/defects4j_Time_21
+
+Error: Time-21 is a deprecated bug
+ at /root/workspace/apr-research/defects4j/framework/core/Utils.pm line 636.
+	Utils::ensure_valid_bid("Time", 21) called at /root/workspace/apr-research/defects4j/framework/core/Utils.pm line 657
+	Utils::ensure_valid_vid("Time", "21b") called at /root/workspace/apr-research/defects4j/framework/bin/d4j/d4j-checkout line 87
+	require /root/workspace/apr-research/defects4j/framework/bin/d4j/d4j-checkout called at /root/workspace/apr-research/defects4j/framework/bin/defects4j line 195
+Compilation failed in require at /root/workspace/apr-research/defects4j/framework/bin/defects4j line 195.
+
+[SKIPPED-CHECKOUT] patches/Small/correct/defects4j-developer/Time/patch1-Time-21-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/Period.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-5-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/format/DateTimeFormatter.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-7-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/MutableDateTime.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-3-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/format/PeriodFormatterBuilder.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-27-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/base/BaseSingleFieldPeriod.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-10-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/Partial.java
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/field/UnsupportedDurationField.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-1-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/DateTimeZone.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-23-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/chrono/GJChronology.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-6-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/base/BasePeriod.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-22-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/Partial.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Time/patch1-Time-4-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/data/time/Week.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-8-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/data/DefaultKeyedValues.java
+[DEBUG] normalized patched_file = source/org/jfree/data/DefaultKeyedValues2D.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-18-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/chart/block/BorderArrangement.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-13-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/chart/plot/CategoryPlot.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/plot/XYPlot.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-14-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/chart/util/ShapeUtilities.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-11-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/data/time/TimeSeries.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-9-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/data/time/TimeSeries.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-3-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/chart/plot/XYPlot.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-4-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/chart/plot/MultiplePiePlot.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-12-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/data/xy/XYSeries.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-5-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/chart/renderer/category/MinMaxCategoryRenderer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-23-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-1-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/chart/plot/PiePlot.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-15-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/data/time/TimePeriodValues.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-7-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/chart/renderer/category/StatisticalBarRenderer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-25-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/chart/plot/CategoryPlot.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-19-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/chart/plot/ValueMarker.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-20-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/data/general/DatasetUtilities.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-2-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/data/category/DefaultIntervalCategoryDataset.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-16-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-10-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/data/time/TimeSeries.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-17-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/data/KeyedObjects2D.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-22-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/chart/util/ShapeList.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-6-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/chart/renderer/GrayPaintScale.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-24-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-21-dev.patch
+[DEBUG] normalized patched_file = source/org/jfree/chart/axis/Axis.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Chart/patch1-Chart-26-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/BooleanUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-51-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/RandomStringUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-12-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/StringUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-40-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/time/DurationFormatUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-63-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/LocaleUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-57-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang3/math/NumberUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-36-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/math/NumberUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-7-dev.patch
+[CHECKOUT-FAILED] tool=defects4j, project=Lang, bug_id=18, path=./temp_projects/defects4j/defects4j_Lang_18
+
+Error: Lang-18 is a deprecated bug
+ at /root/workspace/apr-research/defects4j/framework/core/Utils.pm line 636.
+	Utils::ensure_valid_bid("Lang", 18) called at /root/workspace/apr-research/defects4j/framework/core/Utils.pm line 657
+	Utils::ensure_valid_vid("Lang", "18b") called at /root/workspace/apr-research/defects4j/framework/bin/d4j/d4j-checkout line 87
+	require /root/workspace/apr-research/defects4j/framework/bin/d4j/d4j-checkout called at /root/workspace/apr-research/defects4j/framework/bin/defects4j line 195
+Compilation failed in require at /root/workspace/apr-research/defects4j/framework/bin/defects4j line 195.
+
+[SKIPPED-CHECKOUT] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-18-dev.patch
+[CHECKOUT-FAILED] tool=defects4j, project=Lang, bug_id=48, path=./temp_projects/defects4j/defects4j_Lang_48
+
+Error: Lang-48 is a deprecated bug
+ at /root/workspace/apr-research/defects4j/framework/core/Utils.pm line 636.
+	Utils::ensure_valid_bid("Lang", 48) called at /root/workspace/apr-research/defects4j/framework/core/Utils.pm line 657
+	Utils::ensure_valid_vid("Lang", "48b") called at /root/workspace/apr-research/defects4j/framework/bin/d4j/d4j-checkout line 87
+	require /root/workspace/apr-research/defects4j/framework/bin/d4j/d4j-checkout called at /root/workspace/apr-research/defects4j/framework/bin/defects4j line 195
+Compilation failed in require at /root/workspace/apr-research/defects4j/framework/bin/defects4j line 195.
+
+[SKIPPED-CHECKOUT] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-48-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/ArrayUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-35-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/text/StrBuilder.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-47-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/Entities.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-42-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-23-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/RandomStringUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-11-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/text/StrBuilder.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-60-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/math/NumberUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-58-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang3/time/FastDateFormat.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-38-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/time/FastDateFormat.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-26-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/math/NumberUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-16-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-19-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/StringUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-30-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/NumberUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-44-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/text/StrBuilder.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-59-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/math/NumberUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-24-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang3/StringUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-39-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/StringUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-20-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/text/translate/LookupTranslator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-4-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/ClassUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-41-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/time/FastDateFormat.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-50-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/time/DateUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-53-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/ClassUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-33-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/SystemUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-29-dev.patch
+[CHECKOUT-FAILED] tool=defects4j, project=Lang, bug_id=2, path=./temp_projects/defects4j/defects4j_Lang_2
+
+Error: Lang-2 is a deprecated bug
+ at /root/workspace/apr-research/defects4j/framework/core/Utils.pm line 636.
+	Utils::ensure_valid_bid("Lang", 2) called at /root/workspace/apr-research/defects4j/framework/core/Utils.pm line 657
+	Utils::ensure_valid_vid("Lang", "2b") called at /root/workspace/apr-research/defects4j/framework/bin/d4j/d4j-checkout line 87
+	require /root/workspace/apr-research/defects4j/framework/bin/d4j/d4j-checkout called at /root/workspace/apr-research/defects4j/framework/bin/defects4j line 195
+Compilation failed in require at /root/workspace/apr-research/defects4j/framework/bin/defects4j line 195.
+
+[SKIPPED-CHECKOUT] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-2-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/math/Fraction.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-22-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang3/ArrayUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-37-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/time/FastDateParser.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-9-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-6-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/time/FastDateFormat.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-56-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-17-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-34-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/time/StopWatch.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-55-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/math/NumberUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-1-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/math/NumberUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-27-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/LocaleUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-54-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/LocaleUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-5-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/Entities.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-62-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/enums/ValuedEnum.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-64-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/StringUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-14-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/time/FastDateParser.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-10-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/time/DateUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-65-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/math/Fraction.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-49-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/text/StrBuilder.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-61-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-32-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-8-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/WordUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-45-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/time/DateUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-21-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/reflect/TypeUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-15-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/text/ExtendedMessageFormat.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-43-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/SerializationUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-13-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/StringUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-31-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/StringEscapeUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-52-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/StringEscapeUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-46-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/math/NumberUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-3-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Lang/patch1-Lang-28-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-25-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/optimization/fitting/GaussianFitter.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-58-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/fraction/Fraction.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-26-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-88-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/linear/ArrayRealVector.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-77-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-51-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/linear/OpenMapRealVector.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-29-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/complex/Complex.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-5-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/fraction/ProperFractionFormat.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-106-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-60-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/stat/Frequency.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-89-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/fraction/BigFraction.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/fraction/Fraction.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-1-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/special/Gamma.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-104-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-33-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/util/MathUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-92-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/ode/AbstractIntegrator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-7-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/util/FastMath.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-59-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/stat/regression/SimpleRegression.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-105-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/dfp/Dfp.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-17-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/optim/BaseOptimizer.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/optim/nonlinear/scalar/gradient/NonLinearConjugateGradientOptimizer.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/optim/nonlinear/scalar/noderiv/CMAESOptimizer.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/optim/nonlinear/scalar/noderiv/PowellOptimizer.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/optim/nonlinear/scalar/noderiv/SimplexOptimizer.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/optim/nonlinear/vector/jacobian/GaussNewtonOptimizer.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/optim/nonlinear/vector/jacobian/LevenbergMarquardtOptimizer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-6-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-83-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/optimization/univariate/BrentOptimizer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-23-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/complex/Complex.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-47-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-20-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-2-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/util/FastMath.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-15-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/optimization/univariate/MultiStartUnivariateRealOptimizer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-62-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/complex/Complex.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-46-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/estimation/AbstractEstimator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-100-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/linear/BigMatrixImpl.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/linear/RealMatrixImpl.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-98-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-64-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-48-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/stat/inference/MannWhitneyUTest.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-30-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/analysis/BrentSolver.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-97-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-68-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/complex/Complex.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-96-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-87-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-80-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/optimization/univariate/BrentOptimizer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-24-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-34-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-72-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-74-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-103-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/distribution/FDistribution.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/distribution/UniformRealDistribution.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-22-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/distribution/PoissonDistributionImpl.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-61-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-50-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/distribution/FDistributionImpl.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-95-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubLine.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-4-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-102-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-85-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-52-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-32-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/stat/Frequency.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-75-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-9-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-73-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/fraction/BigFraction.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-36-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/util/MultidimensionalCounter.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-56-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-57-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/dfp/Dfp.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-54-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-39-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-41-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/fraction/Fraction.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-91-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/util/MathArrays.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-3-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/util/MathUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-63-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/util/MathUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-93-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-67-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/ode/events/EventState.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-78-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-69-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/optimization/univariate/BrentOptimizer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-66-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-43-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/util/MathUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-99-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-8-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/optim/nonlinear/vector/Weight.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/optim/nonlinear/vector/jacobian/AbstractLeastSquaresOptimizer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-14-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-45-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/geometry/Vector3D.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-55-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/distribution/MultivariateNormalDistribution.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-11-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/stat/Frequency.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-90-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/fraction/Fraction.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-27-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-19-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-18-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/complex/ComplexFormat.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-101-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/linear/RectangularCholeskyDecomposition.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-21-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-82-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-65-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-44-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/optimization/general/AbstractLeastSquaresOptimizer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-13-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/genetics/ElitisticListPopulation.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-35-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-28-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/util/FastMath.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-16-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/analysis/solvers/BisectionSolver.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-70-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-40-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/util/MathUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-94-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/complex/Complex.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-53-dev.patch
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/linear/CholeskyDecompositionImpl.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-86-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/linear/SingularValueDecompositionImpl.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-76-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/complex/Complex.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-37-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-42-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/ode/nonstiff/RungeKuttaIntegrator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-71-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-12-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-81-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-38-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/optimization/direct/MultiDirectional.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-84-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-31-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/util/MathUtils.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-79-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-49-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/analysis/differentiation/DSCompiler.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Math/patch1-Math-10-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/type/ClosureReverseAbstractInterpreter.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-111-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/parsing/IRFactory.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-122-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/PeepholeFoldConstants.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-78-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/PeepholeSubstituteAlternateSyntax.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-87-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CodeGenerator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-73-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/InlineVariables.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-36-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/PeepholeFoldConstants.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-74-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/SourceFile.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-56-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CollapseProperties.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-130-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CommandLineRunner.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-83-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/DeadAssignmentsElimination.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-88-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/TypedScopeCreator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-95-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/rhino/jstype/JSType.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-82-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/ProcessClosurePrimitives.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-92-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/ScopedAliases.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-108-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/TypedScopeCreator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-70-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/UnreachableCodeElimination.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-127-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/PrepareAst.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-129-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/InlineObjectLiterals.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-53-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/InlineObjectLiterals.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-29-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/rhino/IR.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-27-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/FunctionRewriter.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-55-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/MaybeReachingVariableUse.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-12-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/TypedScopeCreator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-43-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CollapseProperties.java
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/GlobalNamespace.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-89-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/TypedScopeCreator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-48-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/FoldConstants.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-105-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/TypeInference.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-35-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/debugging/sourcemap/SourceMapConsumerV3.java
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/SourceMap.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-47-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/TypeValidator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-6-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-109-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/ProcessCommonJSModules.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-9-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/FunctionTypeBuilder.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-41-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/TypeCheck.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-125-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CodeConsumer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-38-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CodeGenerator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-128-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/NodeUtil.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-75-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/parsing/IRFactory.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-84-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/parsing/IRFactory.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-42-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/rhino/jstype/PrototypeObjectType.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-33-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CollapseVariableDeclarations.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-8-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/InlineCostEstimator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-28-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/Compiler.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-64-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/TypeValidator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-117-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/MinimizeExitPoints.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-126-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/NodeTraversal.java
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/parsing/IRFactory.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-37-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CodeGenerator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-77-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/DeadAssignmentsElimination.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-76-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-7-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CheckGlobalThis.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-99-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CodeGenerator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-52-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/TypeCheck.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-66-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/TypeCheck.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-2-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CheckSideEffects.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-21-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-19-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/FunctionInjector.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-116-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/LightweightMessageFormatter.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-62-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/PeepholeFoldConstants.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-97-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/FunctionTypeBuilder.java
+[DEBUG] normalized patched_file = a/src/com/google/javascript/rhino/jstype/FunctionType.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-90-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/ExploitAssigns.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-124-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/FunctionToBlockMutator.java
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/RenameLabels.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-72-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CheckGlobalThis.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-100-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/TypeCheck.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-69-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/rhino/jstype/RecordType.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-46-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/TypedScopeCreator.java
+[DEBUG] normalized patched_file = a/src/com/google/javascript/rhino/jstype/FunctionType.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-54-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-32-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/ReferenceCollectingCallback.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-98-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/rhino/jstype/NamedType.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-4-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/ControlFlowAnalysis.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-14-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CheckAccessControls.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-71-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CodeGenerator.java
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CodePrinter.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-34-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/TypedScopeCreator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-17-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/ProcessCommonJSModules.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-26-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/TypeCheck.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-11-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CodeConsumer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-51-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/TypeCheck.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-96-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/ProcessClosurePrimitives.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-113-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/DisambiguateProperties.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-118-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/ReferenceCollectingCallback.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-120-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/PeepholeSubstituteAlternateSyntax.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-20-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/FlowSensitiveInlineVariables.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-3-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/ScopedAliases.java
+[DEBUG] normalized patched_file = a/src/com/google/javascript/rhino/Node.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-110-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/NameAnalyzer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-40-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/PeepholeSubstituteAlternateSyntax.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-132-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/NodeUtil.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-94-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/NodeUtil.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-80-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/FunctionInjector.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-115-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CommandLineRunner.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-101-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/Compiler.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-59-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/FlowSensitiveInlineVariables.java
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/MustBeReachingVariableDef.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-30-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/GlobalNamespace.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-119-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CommandLineRunner.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-107-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/InlineObjectLiterals.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-5-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/PeepholeFoldConstants.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-23-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CodeGenerator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-123-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/PeepholeReplaceKnownMethods.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-50-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/ClosureCodingConvention.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-57-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/NameAnalyzer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-114-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/GlobalNamespace.java
+[DEBUG] normalized patched_file = a/src/com/google/javascript/rhino/JSDocInfoBuilder.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-106-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/Compiler.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-31-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/InlineVariables.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-121-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/TypeInference.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-25-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/Normalize.java
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/VarCheck.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-79-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/RemoveUnusedVars.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-45-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/Compiler.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-18-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/PeepholeOptimizationsPass.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-13-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CheckSideEffects.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-22-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-68-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/NodeUtil.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-60-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CodeGenerator.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-65-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/Normalize.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-102-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/rhino/jstype/UnionType.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-104-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/MakeDeclaredNamesUnique.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-49-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CodeConsumer.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-44-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/UnreachableCodeElimination.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-85-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/FlowSensitiveInlineVariables.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-15-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/NodeUtil.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-86-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/parsing/IRFactory.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-81-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/NodeUtil.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-61-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/AnalyzePrototypeProperties.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-67-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/TypeInference.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-112-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/rhino/TokenStream.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-131-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/LiveVariablesAnalysis.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-58-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/ScopedAliases.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-24-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/ControlFlowAnalysis.java
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/DisambiguateProperties.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-103-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/NodeUtil.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-10-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-133-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/RemoveUnusedVars.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-1-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/CheckGlobalThis.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-91-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/jscomp/ScopedAliases.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-16-dev.patch
+[DEBUG] normalized patched_file = a/src/com/google/javascript/rhino/jstype/PrototypeObjectType.java
+[APPLY-FAILED] patches/Small/correct/defects4j-developer/Closure/patch1-Closure-39-dev.patch
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/complex/Complex.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/complex/Complex.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/plot/MultiplePiePlot.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/linear/BigMatrixImpl.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/genetics/ElitisticListPopulation.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/linear/RealMatrixImpl.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/linear/BigMatrixImpl.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/optimization/fitting/GaussianFitter.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/MinimizeExitPoints.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/FunctionInjector.java
+[DEBUG] normalized patched_file = source/org/jfree/data/time/TimeSeries.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/plot/ValueMarker.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/text/StrBuilder.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/ClassUtils.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/text/StrBuilder.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/distribution/MultivariateNormalDistribution.java
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/field/FieldUtils.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/plot/CategoryPlot.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/plot/XYPlot.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/plot/CategoryPlot.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/ArrayUtils.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/math/NumberUtils.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/math/NumberUtils.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/util/MathUtils.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/util/MathArrays.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/distribution/PoissonDistributionImpl.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/stat/Frequency.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/stat/Frequency.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/complex/Complex.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/genetics/ElitisticListPopulation.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/plot/ValueMarker.java
+[DEBUG] normalized patched_file = source/org/jfree/data/time/TimePeriodValues.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/text/ExtendedMessageFormat.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/ClassUtils.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang3/StringUtils.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/text/StrBuilder.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/math/NumberUtils.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/complex/Complex.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/complex/Complex.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/TypeValidator.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/FunctionInjector.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/type/ClosureReverseAbstractInterpreter.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/MinimizeExitPoints.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/util/MathArrays.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/complex/Complex.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/LocaleUtils.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/plot/CategoryPlot.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/NumberUtils.java
+[DEBUG] normalized patched_file = source/org/jfree/data/xy/XYSeries.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/util/MathUtils.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/math/NumberUtils.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/complex/Complex.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/genetics/ElitisticListPopulation.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/complex/Complex.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/time/StopWatch.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/math/NumberUtils.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/util/MathUtils.java
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/field/FieldUtils.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/plot/CategoryPlot.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/plot/XYPlot.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/stat/Frequency.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/analysis/solvers/BisectionSolver.java
+[DEBUG] normalized patched_file = src/main/java/org/joda/time/DateTimeZone.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/stat/Frequency.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubLine.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/MinimizeExitPoints.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/FunctionInjector.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/FunctionInjector.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/renderer/GrayPaintScale.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/plot/XYPlot.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/axis/Axis.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/BooleanUtils.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/analysis/solvers/BisectionSolver.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/StringEscapeUtils.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/LocaleUtils.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/text/ExtendedMessageFormat.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/LocaleUtils.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/LocaleUtils.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/time/FastDateFormat.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/complex/Complex.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/util/MathUtils.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/optimization/fitting/GaussianFitter.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/plot/XYPlot.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/renderer/GrayPaintScale.java
+[DEBUG] normalized patched_file = source/org/jfree/chart/util/ShapeUtilities.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/time/FastDateParser.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/lang/LocaleUtils.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/math/NumberUtils.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubLine.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
+[DEBUG] normalized patched_file = src/java/org/apache/commons/math/stat/Frequency.java
+[DEBUG] normalized patched_file = src/main/java/org/apache/commons/math/util/FastMath.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/CodeConsumer.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/FunctionInjector.java
+[DEBUG] normalized patched_file = src/com/google/javascript/rhino/jstype/RecordType.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/CodeGenerator.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/TypeCheck.java
+[DEBUG] normalized patched_file = src/com/google/javascript/jscomp/LightweightMessageFormatter.java
+total_patches = 535
+successful = 181
+skipped_checkout = 4
+apply_patch_failed = 350
+method_extract_failed = 0
