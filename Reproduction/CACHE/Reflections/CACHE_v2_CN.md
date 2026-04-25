@@ -537,18 +537,13 @@ CACHE 复现的 preprocessing 主流程已经基本跑通。
 | 源码路径定位修复       | 已完成      |
 | Defects4J checkout 修复       | 已完成      |
 | svn 依赖修复 |  已完成 |	
-|              |        |
-|
-|
-|
-|
-|
-手写 dataset 尝试	已验证不可行
-preprocessing 脚本启动	已完成
-patch 文件名解析修复	已完成
-源码路径定位修复	已完成
-Defects4J checkout 修复	已完成
-svn 依赖修复	已完成
+| deprecated bug 跳过             | 已完成       |
+|  method-level 输出            | 初步完成       |
+|  AST mining            |  待进行      |
+|  dataset 构建            | 待进行       |
+|  模型训练	            | 待进行       |
+|  指标异常分析            | 待进行       |
+
 deprecated bug 跳过	已完成
 method-level 输出	初步完成
 AST mining	待进行
