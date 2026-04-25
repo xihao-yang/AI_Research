@@ -530,8 +530,19 @@ CACHE 复现的 preprocessing 主流程已经基本跑通。
 | 阶段	| 状态 |
 | ----  | ---- |
 | 环境配置	|已完成|
-
-patch 数据检查	已完成
+| patch 数据检查 | 已完成      |
+| 手写 dataset 尝试       | 已验证不可行      |
+| preprocessing 脚本启动       | 已完成      |
+| patch 文件名解析修复       |  已完成     |
+| 源码路径定位修复       | 已完成      |
+| Defects4J checkout 修复       | 已完成      |
+| svn 依赖修复 |  已完成 |	
+|              |        |
+|
+|
+|
+|
+|
 手写 dataset 尝试	已验证不可行
 preprocessing 脚本启动	已完成
 patch 文件名解析修复	已完成
