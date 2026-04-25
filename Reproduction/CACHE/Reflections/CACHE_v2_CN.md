@@ -527,8 +527,10 @@ CACHE 复现的 preprocessing 主流程已经基本跑通。
 这为后续 AST mining、dataset 构建、模型训练和 overfitting patch detection 实验打下了基础。
 
 ## 11. 当前状态概览
-阶段	状态
-环境配置	已完成
+| 阶段	| 状态 |
+| ----  | ---- |
+| 环境配置	|已完成|
+
 patch 数据检查	已完成
 手写 dataset 尝试	已验证不可行
 preprocessing 脚本启动	已完成
