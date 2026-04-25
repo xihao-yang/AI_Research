@@ -14,10 +14,10 @@
 ```
 但是实际运行后发现，虽然这些文件在格式上看似完整，但并不能被模型有效使用。模型在读取数据时会对 path context 进行严格过滤，手写数据由于并非从真实 Java 源码 AST 中提取，缺乏合法的语义路径信息，最终导致：
 
-```bash
-corpus: 0
-train dataset size: 0
-```
+
+```corpus: 0```
+```train dataset size: 0```
+
 因此，Day 1 的结论是：CACHE 不能简单依赖人工构造输入数据，而必须回到官方 preprocessing 流程，从真实源码和 patch 中提取 AST path context。
 
 基于这一判断，Day 2 的工作重点转向 CACHE 项目中的官方预处理脚本：
