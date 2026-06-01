@@ -1,3 +1,3 @@
 ## About
 
-This is areflection
+This is a reflection of self study when doing relevant research
