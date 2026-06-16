@@ -1,0 +1,4 @@
+real=1.9272952180016123
+imaginary=6.0
+Exception in thread "main" java.lang.AssertionError: Expected real part 4.0, but got 1.9272952180016123
+	at CEAPMath53BehaviorCheck.main(CEAPMath53BehaviorCheck.java:14)
