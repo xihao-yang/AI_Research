@@ -1,4 +1,4 @@
-# ABout
+# About
 ### AI Research Workspace
 
 
